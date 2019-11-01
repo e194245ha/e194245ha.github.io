@@ -1,0 +1,18 @@
+h1{
+    color: darkorange;
+    font-family: "impact";
+    text-align:center;
+    background-color: aquamarine;
+   
+}
+
+p{
+    font-size: 25px;
+    font-weight: bold;
+}
+body{
+    background-image: url("../images/01.jfif");
+    background-repeat: no-repeat;
+     background-position: bottom;
+   
+}
