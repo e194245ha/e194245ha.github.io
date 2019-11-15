@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: blue;
+  background-color: burlywood;
+}
+h2{
+    text-align: center;
+    color: mediumvioletred;
+    background-color: darksalmon;
+}
+body{
+    background-image: url(../images/03.jpg);
+}
+table{
+    background-color: crimson;
+}
+ol{
+    background-image: url(../images/04.jpg);
+}
