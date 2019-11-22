@@ -1,0 +1,26 @@
+h1#iti{
+    color: fuchsia;
+    text-align : center ;
+    background-color:black;
+}
+h1#ni{
+    color: deeppink;
+   text-align : center ;
+    background-color:aquamarine;
+}
+p{
+    font-size:13px;
+}
+h2#san{
+    color:chartreuse;
+    text-align : center ;
+    background-color:blue
+}
+h2#yon{
+    color:darkcyan;
+    text-align : center ;
+    background-color:cyan
+}
+body{
+    background-image: url("../images/04.jpg");
+}
