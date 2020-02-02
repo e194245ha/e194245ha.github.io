@@ -1,0 +1,352 @@
+body{
+background-image: url(../images/04.jpg);
+}
+div.title{
+    width: 1000px;
+    height: 100px;
+    background-color:black;
+    text-align: center;
+    font-size: 70px;
+    font-family: serif;  
+    color: aliceblue;
+}
+div.article{
+    width: 1000px;
+    height: 100px;
+    background-color:black;
+    text-align:center;
+    font-size: 15px;
+    font-family: serif;  
+    margin-top: 20px;
+color: white;
+}
+div.footer{
+     width: 1000px;
+    height: 50px;
+    background-color:white;
+    text-align:left;
+    font-size: 30px;
+    font-family: serif;  
+    margin-top: 40px;
+        color:black;
+}
+div.menu{
+    width: 1000px;
+}
+span.menuitem{
+    width: 1000px;
+    display:inline-block;
+    width: 250px;
+    height: 50px;
+    background-color:black;
+    text-align: center;
+    font-size: 30px;
+    font-family: serif;  
+}
+div.images{
+    width: 1000px;
+}
+span.image1{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    color: white;    
+    background-image: url(../images/01.png);
+}
+span.image2{
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    color: white;    
+     background-image: url(../images/02.png);
+}
+span.image3{
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    color: white;    
+    background-image: url(../images/03.png);
+}
+
+div.articletwo{
+    width: 1000px;
+    height: 50px;
+    background-color:black;
+    text-align:center;
+    font-size: 30px;
+    font-family: serif;  
+    color: white;
+}
+span.image4{
+    display: inline-block;
+    width: 300px;
+    height: 330px;
+    background-color: black;
+    color: white;    
+    background-image: url(../images/05.png);
+    margin-right: 40px;
+}
+span.image5{
+    display: inline-block;
+    width: 300px;
+    height: 330px;
+    background-color: black;
+    color: white;    
+     background-image: url(../images/06.png);
+    margin-right: 40px;
+}
+span.image6{
+    display: inline-block;
+    width: 300px;
+    height: 330px;
+    background-color: black;
+    color: white;    
+    background-image: url(../images/07.png);
+}
+p1{
+    font-size: 30px;
+    color: aqua
+}
+p2{
+    font-size: 20px;
+    color:black;
+}
+p3{
+    font-size: 20px;
+    color:black;
+}
+
+p4{
+    font-size: 30px;
+    color:aquamarine;
+}
+p5{
+    font-size: 20px;
+    color:black;
+}
+p6{
+    font-size: 20px;
+    color:black;
+}
+p7{
+    font-size: 30px;
+    color:darkorange;
+}
+p8{
+    font-size: 20px;
+    color:black;
+}
+p9{
+    font-size: 20px;
+    color:black;
+}
+p10{
+    font-size: 20px;
+    color:black;
+}
+
+div.coolmonstertitle{
+    width: 230px;
+    height: 50px;
+    font-size: 30px;
+    background-color: black;
+    color: dodgerblue;    
+}
+div.coolmonsterimage{
+    width: 1200px;
+}
+span.coolmonsterimage1{
+display:inline-block;
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    background-image: url(../images/08.png);
+}
+span.coolmonsterimage2{
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    background-image: url(../images/09.png);
+}
+
+p11{
+    font-size: 30px;
+    color:aquamarine;
+}
+p12{
+    font-size: 20px;
+    color:black;}
+
+    p13{
+        font-size: 20px;
+        color:black;
+    }
+p14{
+    font-size: 30px;
+    color:red;
+}
+p15{
+    font-size: 20px;
+    color:black;}
+
+    p16{
+        font-size: 20px;
+        color:black;
+    }
+div.cutemonsterimage{
+    width: 1200px;
+}
+span.cutemonsterimage1{
+display:inline-block;
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    background-image: url(../images/10.png);
+}
+span.cutemonsterimage2{
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-color: aquamarine;
+    background-image: url(../images/11.png);
+}
+div.cutemonstertitle{
+    width: 230px;
+    height: 50px;
+    font-size: 30px;
+    background-color: black;
+    color:pink;    
+}
+
+p17{
+    font-size: 30px;
+    color:blueviolet;
+}
+p18{
+    font-size: 20px;
+    color:black;}
+
+    p19{
+        font-size: 20px;
+        color:black;
+    }
+
+p20{
+    font-size: 30px;
+    color:burlywood;
+}
+p21{
+    font-size: 20px;
+    color:black;
+}
+
+    p22{
+        font-size: 30px;
+        color:black;
+    }
+
+div.articlethree{
+    width: 1000px;
+    height: 50px;
+    background-color:black;
+    text-align:center;
+    font-size: 25px;
+    font-family: serif;  
+    color: white;
+}
+
+div.storyone{
+    width: 350px;
+    height: 50px;
+    font-size: 30px;
+    background-color: black;
+    color: deepskyblue;
+}
+
+span.storyimage1{
+   display: inline-block;
+    width: 1000px;
+    height: 500px;
+   background-image: url(../images/12.png); 
+    
+}
+
+p22{
+    font-size: 30px;
+    color:black;
+}
+p23{
+    font-size: 20px;
+    color:black;}
+
+    p24{
+        font-size: 20px;
+        color:black;
+    }
+div.storytwo{
+    width: 500px;
+    height: 50px;
+    font-size: 30px;
+    background-color: black;
+    color: deepskyblue;
+}
+
+span.storyimage2{
+   display: inline-block;
+    width: 1000px;
+    height: 500px;
+   background-image: url(../images/13.png); 
+    
+}
+
+p25{
+    font-size: 30px;
+    color:black;
+}
+p26{
+    font-size: 20px;
+    color:black;}
+
+    p27{
+        font-size: 20px;
+        color:black;
+    }
+
+div.storythree{
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    background-color: black;
+    color: deepskyblue;
+}
+
+span.storyimage3{
+   display: inline-block;
+    width: 1000px;
+    height: 500px;
+   background-image: url(../images/14.png); 
+    
+}
+
+p28{
+    font-size: 30px;
+    color:black;
+}
+p29{
+    font-size: 20px;
+    color:black;}
+
+    p30{
+        font-size: 20px;
+        color:black;
+    }
+
+
+
+
+
+
